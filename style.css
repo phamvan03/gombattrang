@@ -487,6 +487,9 @@
     repeat;
   font-size: 13px;
 }
+.footer-top {
+  background-color: #941a1f;
+}
 .footer-message {
   text-align: center;
   margin-top: 25px;
